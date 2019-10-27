@@ -1,3 +1,3 @@
 # helloSwift
 
-![Alt text](image/Screenshot?raw=true "Title")
+![Alt text](image/Screenshot.png?raw=true "Title")
